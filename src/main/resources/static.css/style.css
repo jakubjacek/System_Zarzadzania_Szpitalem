@@ -1,0 +1,51 @@
+body
+{
+    margin: 0;
+    height: 100%;
+}
+
+.custom-bg
+{
+    background:#8EBFE1!important;
+}
+
+.text-color
+{
+    color:#3A4E5C;
+}
+
+.non-underline-link{
+    text-decoration: none !important;
+}
+
+.padding {
+    padding: 2rem !important
+}
+
+.card {
+    margin-bottom: 30px;
+    border: none;
+    -webkit-box-shadow: 1px 1px 2px 1px rgba(154, 154, 204, 0.22);
+    -moz-box-shadow: 1px 1px 2px 1px rgba(154, 154, 204, 0.22);
+    box-shadow: 1px 1px 2px 1px rgba(154, 154, 204, 0.22)
+}
+
+.card-header {
+    background-color: #1E425C;
+    border-bottom: 1px solid #1E425C
+}
+
+.card-border {
+    border: 1px solid #3879A8;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 200px;
+    overflow: auto;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+}
+
